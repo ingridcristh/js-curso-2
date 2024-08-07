@@ -72,13 +72,18 @@ js-curso-2-main/
 4. Haz un push a la rama (`git push origin mejora-nueva`).
 5. Abre un Pull Request.
 
+## Interfaz de usuario
+La interfaz de usuario incluye botones que, al ser presionados, ejecutan las funciones descritas anteriormente. Cada botón está asociado con una función específica para realizar las operaciones mencionadas.
+![Interfaz](https://github.com/user-attachments/assets/50807890-9978-41e9-a617-1fc9bf10a85b)
+
 ## 📧 Contacto
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
-- **Silvia González**
+- **Silvia Gonzalez**
 - 📧 devsoftwaregonzalez@gmail.com
 - 🌐 LinkedIn: https://www.linkedin.com/in/silvia-gonzalez-82414037/
 
 
 ¡Gracias por visitar el proyecto **Hora del Desafío**! 😊
+
