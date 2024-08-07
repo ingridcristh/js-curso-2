@@ -1,4 +1,4 @@
-# 🕒 Hora del Desafío
+# Desafio 1 ---> 🕒 Hora del Desafío
 
 ¡Bienvenidos al proyecto **Hora del Desafío**! 🚀 Este proyecto demuestra el uso de JavaScript para manejar eventos y manipular el DOM de una manera interactiva y divertida.
 
